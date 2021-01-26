@@ -1,0 +1,102 @@
+    1  psql -U postgres
+    2  netstat -nlp | grep 5432
+    3  sudo systemctl start postgresql
+    4  systemctl start postgresql
+    5  ls -help
+    6  ls --help
+    7  cd test123
+    8  rm test.txt
+    9  mkdir test.1234
+   10  rmdir test.1234
+   11  mkdir history>istorija
+   12  history
+   13  history>istorija
+   14  history > istorija.txt
+   15  rmdir istorija
+   16  rmdir istorija
+   17  cd istorija
+   18  rmdir history
+   19  mkdir test123.txt
+   20  history
+   21  pwd 
+   22  ls
+   23  ls-l
+   24  ls -l
+   25  cd Users
+   26  pwd
+   27  ls -l
+   28  cd nesa
+   29  cd Desktop
+   30  ls -l
+   31   cd ..
+   32  cd Desktop
+   33  cd ITbootcamp
+   34  ls -l
+   35  cd ..
+   36  cd ../..
+   37  mkdir
+   38  mk dir test123
+   39  mk dir test123
+   40  mkdir test123
+   41  cd test123
+   42  nano test.txt
+   43  ls -l
+   44  cd Users
+   45  cd Desctop
+   46  cd Destop
+   47  cd Desktop
+   48  cd Desktop
+   49  rep -e cd
+   50  gep -e cd
+   51  grep -e cd
+   52  grep -e cd
+   53  ls -l
+   54  cd Users
+   55  cd nesa
+   56  ls -l
+   57  cd Desktop
+   58  mkdir novifajl
+   59  cd novifajl
+   60  touch fajl123.txt
+   61  history > fajl123.txt
+   62  grep -e cd
+   63  tuoch fajl.txt
+   64  cd novi123
+   65  tuoch fajl.txt
+   66  git status
+   67  Novasifra123456
+   68  git int
+   69  git init
+   70  git confing --global user.name "NebojsaStanojevic"
+   71  git confing --global user.email "nebojsastanojevic.mi@gmail.com"
+   72  git clone git clone
+   73  git clone
+   74  git git
+   75  git
+   76  git init
+   77  git confing --global user.name "NebojsaStanojevic"
+   78  git confing --global user.name "NebojsaStanojevic"
+   79  git confing --global user.email "nebojsastanojevic.mi@gmail.com"
+   80  git commit -m "bootcampVezbanje"
+   81  git clone https://github.com/NebojsaStanojevic/bootcampVezbanje
+   82  git status
+   83  cd bootcampVezbanje
+   84  ls
+   85  git status
+   86  git add Nebojsa Stanojevic
+   87  git ststus
+   88  git status
+   89  git add nebojsa_stanojevic/
+   90  git status
+   91  git add vezba1.txt 
+   92  git status
+   93  git commit -m "Prva izmena"
+   94  git push
+   95  git status
+   96  history
+   97  cd ..
+   98  cd bootcampVezbanje/
+   99  ls
+  100  history > history
+  101  tuch history
+  102  history > history.txt
